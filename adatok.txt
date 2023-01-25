@@ -1,0 +1,5 @@
+Árvácska;Móricz Zsigmond;1945;regény;magyar
+Édes Anna;Kosztolányi Dezső;1956;bűnügyi regény;magyar
+Névtelen vár;Jókai Mór;1970;regény;magyar
+Noszty fiú este Tóth Marival;Mikszáth Kálmán;1900;regény;magyar
+Candide;Voltaire;1870;bűnügyi regény;francia
